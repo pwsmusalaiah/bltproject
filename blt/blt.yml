@@ -10,7 +10,7 @@ project:
 git:
   default_branch: master
   remotes:
-    cloud: 'pennywiseapp@svn-6886.devcloud.hosting.acquia.com:pennywiseapps.git'
+    cloud: 'pennywiseapps@svn-6886.devcloud.hosting.acquia.com:pennywiseapps.git'
 deploy:
   tag_source: true
 drush:
