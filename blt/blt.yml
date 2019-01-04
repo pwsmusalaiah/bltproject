@@ -9,7 +9,8 @@ project:
     hostname: 'local.${project.machine_name}.com'
 git:
   default_branch: master
-  remotes: { pennywiseapps@svn-6886.devcloud.hosting.acquia.com:pennywiseapps.git }
+  remotes:
+    cloud: 'pennywiseapps@svn-6886.devcloud.hosting.acquia.com:pennywiseapps.git'
 deploy:
   tag_source: true
 drush:
