@@ -1,0 +1,13 @@
+name: 'Lightning Roles'
+# core: 8.x
+type: module
+package: Lightning
+description: 'Automatically manages user roles and permissions.'
+dependencies:
+  - node
+
+# Information added by Drupal.org packaging script on 2018-12-05
+version: '8.x-3.4'
+core: '8.x'
+project: 'lightning_core'
+datestamp: 1544033586
